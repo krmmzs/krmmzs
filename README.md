@@ -1,5 +1,5 @@
 <div align="center">
-<img height="150" src="./static/1.gif" alt="gif with funny random cat say thank you." />
+<img height="150" src="./static/2.gif" alt="gif with funny random cat say thank you." />
 </div>
 
 <p align="center">

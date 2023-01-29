@@ -22,7 +22,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning CS
-- 💬 May you could ask me about vim
+- 💬 May you could ask me about neovim or vim
 
 [![Krmmzs's GitHub stats](https://github-readme-stats.vercel.app/api?username=krmmzs&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 

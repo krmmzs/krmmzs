@@ -22,7 +22,9 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning CS
-- 💬 May you could ask me about neovim or vim
+- 💬 May you could ask me about neovim or vim, I love them.
+
+The most luxurious thing in the world is to be able to learn regardless of everything
 
 [![Krmmzs's GitHub stats](https://github-readme-stats.vercel.app/api?username=krmmzs&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
